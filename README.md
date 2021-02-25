@@ -34,15 +34,13 @@ conda install anaconda-navigator
 * [JupyterLab](https://jupyter.org/)或Jupyter Notebook：基于Web的交互式计算平台
 * Anaconda Navigator：Anaconda的图形用户界面
 
----
-```octave
+```python
 a=4             #整数
 b=3.1           #浮点数
 c=a+b*(0+1.0j)  #复数
 d=0xe           #十六进制整数
 a,b,c,d
 ```
----
 
 <pre><code>This is a code block.
 </code></pre>
